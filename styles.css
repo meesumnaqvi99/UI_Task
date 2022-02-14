@@ -1,0 +1,856 @@
+
+
+
+#title{
+  position:relative;
+  height:750px;
+
+  background-image: linear-gradient(rgba(61, 60, 60, 0.6),rgba(61, 60, 60, 0.6)), url("xhero_1.jpg.pagespeed.ic.yu1ylfvph1.webp");
+  color:#fff;
+
+}
+
+.main-div{
+  width:100%;
+  overflow-x:hidden;
+
+
+}
+.section-1-text{
+
+  padding-top: 15%;
+}
+
+.header-text{
+
+  font-size: 2.3rem;
+  font-family : "Work Sans";
+
+}
+
+.header-text-small{
+
+  font-size: 0.9rem;
+  font-family : "Work Sans";
+  padding-bottom: 3%;
+
+
+}
+.btn-1{
+
+  background-color:blue;
+  color:white;
+}
+
+.btn-2{
+
+color: white
+}
+.carousel-item{
+	padding: 7% 15%;
+}
+
+
+#testimonials{
+
+  padding: 7% 15%;
+	text-align : center;
+
+
+}
+
+.testimonial-text{
+
+	font-size:1.4rem;
+	line-height:1.2;
+  text-align:center;
+}
+
+.slide-last-text{
+  padding-top: 2%;
+  font-size: 1rem;
+
+
+}
+
+.first-box-heading{
+
+	font-size:1rem;
+	line-height:1.5;
+  color:black;
+
+}
+.first-box-text{
+
+  margin-top: 5%;
+
+}
+
+
+.card-body{
+
+	background-color:white;
+  color:black;
+}
+
+
+
+.pric-col {
+
+	padding-top: 5%;
+  padding-bottom: 3%;
+  padding-left:5%;
+
+
+}
+
+.card-box{
+
+  height:300px;
+
+}
+.box-col-1{
+
+  width:25%;
+}
+.card-1{
+  width:15px;
+  background-color: gray;
+}
+
+
+.boxes-div{
+
+  padding-left: 15%;
+
+
+
+}
+
+#leadership{
+  margin-top: 10%;
+}
+
+.leadership-head{
+
+  text-align: center;
+}
+
+.leadership-boxes{
+
+  margin-top:5%;
+  margin-right:3%;
+  margin-right:8%;
+
+
+
+}
+
+
+
+.leadership-card-1{
+  height:400px;
+  width:120%;
+
+  background-image: url(xperson_1.jpg.pagespeed.ic.YTN3ICQ2Kp.webp);
+  background-size:380px 400px;
+
+
+
+}
+
+.leader-card-para{
+
+  padding-left:4%;
+  padding-top: 3%;
+  color:grey;
+  font-size:0.8rem;
+}
+.leader-card-head{
+
+  padding-left: 4%;
+  padding-top: 7%;
+}
+.leader-card1-div{
+
+  margin-top:75%;
+  background-color: white;
+  width:99.5%;
+  height:105px;
+}
+
+.leader-card3-div{
+
+  margin-top:75%;
+  background-color: white;
+  width:99.5%;
+  height:105px;
+}
+.leadership-card-2{
+  height:400px;
+  width:120%;
+  background-image: url(xperson_2.jpg.pagespeed.ic.1296G1Z9Tt.webp);
+  background-size:380px 400px;
+
+}
+
+.leadership-card-3{
+  height:400px;
+  width:120%;
+  background-image: url(xperson_3.jpg.pagespeed.ic.lJKZ84375k.webp);
+  background-size:380px 400px;
+
+}
+.card-sm{
+
+  margin-left: 5%;
+  margin-top: 20%;
+  height:57%;
+  width:90%;
+
+
+  visibility: hidden !important;
+}
+
+.extra{
+
+  height: 250px;
+}
+
+.message-div-why{
+
+  padding-left: 5%;
+  height: 50%;
+  font-size: 1rem;
+  padding-top: 6%;
+  background-color:ghostwhite;
+
+  }
+
+
+  .why-us-last{
+
+
+    padding-left: 15%;
+    padding-top: 3.5%;
+  }
+  .message-under-why{
+    color:darkgrey;
+    text-align:left;
+  }
+
+  .Why-Us-head{
+
+
+    color:blue;
+  }
+  .Under-Why-Us{
+
+
+    padding-left:15% ;
+    padding-top: 6%;
+  }
+
+  .why-us{
+
+    padding-left: 15%;
+
+  }
+
+
+.title-img{
+
+	margin-left:32%;
+  margin-top: 6%;
+
+	width: 70%;
+  height: 80%;
+
+
+
+
+
+}
+
+.blog-1-pic{
+ height:470px;
+
+ background-image: url(xslider-2.jpg.pagespeed.ic.EWb48bP-9Y.webp);
+ background-size:560px 500px;
+}
+
+
+.blog-3-pic{
+  height:470px;
+
+  background-image: url(xslider-3.jpg.pagespeed.ic.X6eIzTOg3j.webp);
+  background-size:630px 500px;
+}
+
+
+
+.blog-4-pic{
+  height:470px;
+
+  background-image: url(xslider-4.jpg.pagespeed.ic._WUo7BMTuS.webp);
+  background-size:480px 500px;
+}
+
+.first-blog-row{
+margin-left:22% ;
+}
+
+.blog-2-pic{
+  height:470px;
+
+  background-image: url(xslider-1.jpg.pagespeed.ic.lh95K5ylj0.webp);
+  background-size:620px 500px;
+}
+
+
+.numbers-1{
+
+  padding-top: 3%;
+  padding-left:2%;
+  color: blue;
+  text-align:center;
+
+}
+
+.numbers-2{
+
+  padding-top: 3%;
+  padding-left: 2%;
+  color: blue;
+  text-align:center;
+
+}
+
+.numbers-3{
+
+  padding-top: 3%;
+  padding-left: 2%;
+  color: blue;
+  text-align:center;
+
+}
+
+
+
+.numbers_div{
+
+
+  height: 5%;
+  width:100%;
+  margin-top: 10%;
+  background-color:ghostwhite;
+}
+.service-box{
+
+  text-align:center;
+  padding-top: 4%;
+  padding-bottom: 4%;
+
+}
+
+.front-slide{
+  visibility: visible !important;
+}
+
+#Services{
+  background-color:ghostwhite;
+}
+
+.service-heading-lg{
+
+  text-align:center;
+  padding-top:10%;
+  padding-bottom: 7%;
+}
+
+.service-heading-sm{
+  visibility: visible !important;
+  padding-top: 2%;
+  padding-bottom: 5%;
+}
+.btn-service{
+
+  background-color: black;
+  color:white;
+  margin-top:5%;
+
+  margin-bottom:8%;
+
+}
+.blog-1{
+  height:500px;
+
+  margin-left:17%;
+  background-size:380px 400px;
+
+}
+.service-more{
+
+  text-align:center;
+}
+
+
+.footer-head{
+
+  padding-top: 10%;
+  padding-left:22%;
+}
+#footer{
+
+  background-color:ghostwhite;
+margin-top: 8%;
+
+}
+
+.footer-div-1{
+
+  height:200px;
+
+  width:23%;
+
+}
+
+.footer-div-2{
+  height:200px;
+
+  width:12%;
+  line-height: 1.5;
+
+}
+
+
+
+@media only screen and (max-width: 420px){
+
+  [class*="section-1-text"] {
+    display: inline-block;
+  }
+
+  .leadership-card-2{
+
+    background-size: 210px 400px;
+
+  }
+
+  .leader-card3-div{
+    margin-top:180%;
+    width:100%;
+  }
+
+  .leadership-card-1{
+
+    background-size: 210px 400px;
+
+  }
+
+
+  .leadership-card-3{
+
+    background-size: 210px 400px;
+
+  }
+  .boxes-div{
+    display: none;
+  }
+
+  .leader-card1-div{
+
+    margin-top:180%;
+  }
+
+  .leadership-boxes{
+
+    width:42%;
+  }
+
+  #leadership{
+
+    align-items: left;
+  }
+
+  .card-sm{
+    visibility: visible !important;
+  }
+
+  .why-us{
+    padding-left: 2%;
+    padding-top:10%;
+  }
+
+
+  .Under-Why-Us{
+
+
+    padding-left:2% ;
+    padding-top: 6%;
+  }
+
+  .message-div-why{
+
+    padding-left: 5%;
+    height: 50%;
+    font-size: 1rem;
+    padding-top: 6%;
+    background-color:ghostwhite;
+    text-align: center;
+
+  }
+
+  #second-section{
+
+    align-items: left;
+  }
+
+  .why-us-last{
+
+
+    padding-left: 2%;
+    padding-top: 3.5%;
+  }
+
+  .front-slide{
+    visibility: hidden !important;
+  }
+
+
+  .service-heading-sm{
+    visibility:visible !important;
+    margin-left:40%;
+    padding-top:10%;
+    padding-bottom: 5%;
+  }
+.first-blog-row{
+  margin:0 !important;
+}
+
+.footer-head{
+  padding:0% !important;
+  padding-left: 8%;
+  padding-top:20%;
+}
+
+.footer-div-1{
+  width:100%;
+
+}
+
+.footer-div-2{
+  width:100%;
+
+}
+
+.footer-head{
+  padding-top:10% !important;
+  padding-left:3% !important;
+}
+
+
+.section-1-text{
+
+  text-align: left !important;
+  text-align: top !important;
+}
+
+.agency-head{
+
+  margin:0 !important;
+  padding-left:3%;
+  padding-top:10%;
+  padding-bottom: 3%;
+
+}
+
+.title-img{
+  margin:0 !important;
+  padding-left:3%;
+  width:98.8%;
+}
+
+.why-us{
+
+  margin-top:15%;
+}
+
+.message-div-why{
+  text-align: center;
+  padding-left: 13%;
+  padding-right: 13%;
+}
+
+
+
+}
+
+@media all and (min-width: 421px) and (max-width: 799px){
+  [class*="section-1-text"] {
+    display: inline-block;
+  }
+
+
+  .leadership-card-1{
+    background-repeat: no-repeat;
+    background-size: 410px 400px !important;
+
+  }
+
+
+  .leadership-card-2{
+
+    background-repeat: no-repeat;
+    background-size: 410px 400px !important;
+
+  }
+
+
+
+  .leader-card3-div{
+    margin-top:100%;
+    width:100%;
+  }
+
+
+
+ #numbers-lg{
+   margin-top: 20%;
+ }
+
+  .leadership-card-3{
+    background-repeat: no-repeat;
+    background-size: 410px 400px !important;
+
+  }
+  .boxes-div{
+    display: none;
+  }
+
+  .leader-card1-div{
+
+    margin-top:100%;
+  }
+
+  .leadership-boxes{
+
+    width:42%;
+  }
+
+  #leadership{
+
+    align-items: left;
+  }
+
+  .card-sm{
+    visibility: visible !important;
+  }
+
+  .why-us{
+    padding-left: 2%;
+    padding-top:10%;
+  }
+
+  .Under-Why-Us{
+
+
+    padding-left:2% ;
+    padding-top: 6%;
+  }
+
+  .message-div-why{
+
+    padding-left: 5%;
+    height: 50%;
+    font-size: 1rem;
+    padding-top: 6%;
+    background-color:ghostwhite;
+    text-align: center;
+
+  }
+
+  #second-section{
+
+    align-items: left;
+  }
+
+  .why-us-last{
+
+
+    padding-left: 2%;
+    padding-top: 3.5%;
+  }
+
+  .front-slide{
+    visibility: hidden !important;
+  }
+
+
+  .service-heading-sm{
+    visibility:visible !important;
+    margin-left:40%;
+    padding-top:10%;
+    padding-bottom: 5%;
+  }
+.first-blog-row{
+  margin:0 !important;
+}
+
+.footer-head{
+  padding:0% !important;
+  padding-left: 8%;
+  padding-top:20%;
+}
+
+.footer-div-1{
+  width:100%;
+
+}
+
+.footer-div-2{
+  width:100%;
+
+}
+
+.footer-head{
+  padding-top:10% !important;
+  padding-left:3% !important;
+}
+
+
+.section-1-text{
+
+  text-align: left !important;
+  text-align: top !important;
+}
+
+.agency-head{
+
+  margin:0 !important;
+  padding-left:3%;
+  padding-top:10%;
+  padding-bottom: 3%;
+
+}
+
+.title-img{
+  margin:0 !important;
+  padding-left:3%;
+  width:98.8%;
+}
+
+.why-us{
+
+  margin-top:15%;
+}
+
+.message-div-why{
+  text-align: center;
+  padding-left: 13%;
+  padding-right: 13%;
+}
+
+
+
+}
+
+
+
+@media all and (min-width: 800px) and (max-width: 998px){
+
+
+
+.first-blog-row{
+  margin-left:0 !important;
+
+}
+
+.leader-card1-div{
+
+  margin-top:180%;
+}
+
+.leader-card3-div{
+
+  margin-top:180%;
+}
+.extra{
+
+padding-bottom: 70% !important;
+}
+.card-box{
+  visibility: hidden !important;
+
+}
+.card-sm{
+  visibility: visible !important;
+
+  margin: 0% !important;
+
+  margin-left:5% !important;
+}
+.pric-col{
+  padding: 0% !important;
+}
+
+.agency-head{
+
+  margin:0 !important;
+  padding-left:3%;
+
+  padding-bottom: 3%;
+
+}
+
+.title-img{
+  margin:0 !important;
+  padding-left:3%;
+  width:98.8%;
+  height:550px;
+}
+
+
+
+.message-div-why{
+  text-align: center;
+  padding-left: 13%;
+  padding-right: 13%;
+}
+
+.check-col{
+
+  width:50%;
+
+}
+
+.slide-container{
+  margin-top:10% !important;
+}
+}
+
+@media all and (min-width: 999px) and (max-width: 1300px){
+
+  .check-col{
+
+    width:50%;
+
+  }
+
+  .leader-card1-div{
+
+    margin-top:120%;
+  }
+
+  .leader-card3-div{
+
+    margin-top:120%;
+  }
+
+
+
+
+}
+
+
+
