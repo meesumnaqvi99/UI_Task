@@ -1,6 +1,9 @@
 
 
 
+*{margin: 0px; padding:0px}
+
+
 #title{
   position:relative;
   height:750px;
@@ -9,17 +12,21 @@
   color:#fff;
 
 }
+.nav-wid{
+  width:100%;
+}
 
 .main-div{
-  width:100%;
-  overflow-x:hidden;
-
-
+  width: 100%;
+  margin:0%;
+  padding: 0%;
 }
 .section-1-text{
 
   padding-top: 15%;
 }
+
+
 
 .header-text{
 
@@ -103,6 +110,49 @@ color: white
 
 
 }
+.grey-text{
+  color:gray;
+  padding-bottom: 2%;
+  line-height: 1.5;
+}
+
+.grey-text2{
+  color:gray;
+  padding-bottom: 2%;
+  padding-top: 10%;
+  line-height: 1.5;
+}
+.agency-head{
+
+  margin-left: 32%;
+}
+
+.grey-text-blog{
+  color:darkgray;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 5%;
+}
+
+.footer-black{
+  color:black;
+  padding-top:2%;
+}
+
+.services-box-style{
+  font-size:48px;
+  color:blue;
+  margin-top: 1%;
+  margin-left: 2%;
+  margin-bottom: 4%;
+}
+.icon{
+  font-size:48px;
+  color:blue;
+  margin-top: 1%;
+  margin-left: 2%;
+  margin-bottom: 4%;
+}
 
 .card-box{
 
@@ -121,7 +171,8 @@ color: white
 
 .boxes-div{
 
-  padding-left: 15%;
+  padding-left: 25%;
+  width:90%;
 
 
 
@@ -212,15 +263,19 @@ color: white
   visibility: hidden !important;
 }
 
+
+
 .extra{
 
   height: 250px;
+  width:90%;
 }
 
 .message-div-why{
 
   padding-left: 5%;
   height: 50%;
+  width:75%;
   font-size: 1rem;
   padding-top: 6%;
   background-color:ghostwhite;
@@ -256,57 +311,70 @@ color: white
     padding-left: 15%;
 
   }
-
+.black-text{
+  color:black;
+}
 
 .title-img{
 
 	margin-left:32%;
   margin-top: 6%;
 
-	width: 70%;
-  height: 80%;
+	width: 62%;
+}
 
+#blog{
+  width:100%;
+}
 
+.blog-new{
+  display:flex;
 
-
+  flex-wrap: wrap;
+  margin-left:25%;
 
 }
 
-.blog-1-pic{
- height:470px;
-
- background-image: url(xslider-2.jpg.pagespeed.ic.EWb48bP-9Y.webp);
- background-size:560px 500px;
+.footer-row{
+  width:100%;
 }
 
+.img-row-1{
+  width:25%;
+  object-fit: cover;
+}
+.img-row-2{
 
-.blog-3-pic{
-  height:470px;
+  width:45%;
 
-  background-image: url(xslider-3.jpg.pagespeed.ic.X6eIzTOg3j.webp);
-  background-size:630px 500px;
 }
 
+.img-row-3{
 
+  width:45%;
 
-.blog-4-pic{
-  height:470px;
-
-  background-image: url(xslider-4.jpg.pagespeed.ic._WUo7BMTuS.webp);
-  background-size:480px 500px;
 }
-
-.first-blog-row{
-margin-left:22% ;
+.ficon-tw{
+  margin-right:5%;
+  color:black;
 }
+.img-row-4{
 
-.blog-2-pic{
-  height:470px;
+  width:25%;
+  object-fit: cover;
 
-  background-image: url(xslider-1.jpg.pagespeed.ic.lh95K5ylj0.webp);
-  background-size:620px 500px;
 }
-
+.pad-add-1{
+  padding-right: 1%;
+}
+.ficon-s{
+  background-color: black;
+  margin-right: 5%;
+  color:white
+}
+.pad-add{
+  padding-top: 5%;
+}
 
 .numbers-1{
 
@@ -335,13 +403,20 @@ margin-left:22% ;
 
 }
 
+.redcol{
+  color: red;
+}
+
+.bluecol{
+  color:blue;
+}
 
 
 .numbers_div{
 
 
   height: 5%;
-  width:100%;
+  width:99%;
   margin-top: 10%;
   background-color:ghostwhite;
 }
@@ -359,6 +434,7 @@ margin-left:22% ;
 
 #Services{
   background-color:ghostwhite;
+  width:99%;
 }
 
 .service-heading-lg{
@@ -382,13 +458,6 @@ margin-left:22% ;
   margin-bottom:8%;
 
 }
-.blog-1{
-  height:500px;
-
-  margin-left:17%;
-  background-size:380px 400px;
-
-}
 .service-more{
 
   text-align:center;
@@ -404,6 +473,7 @@ margin-left:22% ;
 
   background-color:ghostwhite;
 margin-top: 8%;
+width:99%;
 
 }
 
@@ -423,6 +493,13 @@ margin-top: 8%;
 
 }
 
+#second-section{
+  width:90%;
+}
+
+#numbers-lg{
+  width:98%;
+}
 
 
 @media only screen and (max-width: 420px){
@@ -475,6 +552,7 @@ margin-top: 8%;
 
   .card-sm{
     visibility: visible !important;
+
   }
 
   .why-us{
@@ -524,9 +602,36 @@ margin-top: 8%;
     padding-top:10%;
     padding-bottom: 5%;
   }
-.first-blog-row{
+
+.blog-new{
   margin:0 !important;
+
 }
+
+
+
+.img-row-1{
+  width:50%;
+
+
+}
+.img-row-2{
+
+  width:50%;
+
+}
+
+.img-row-3{
+
+  width:100%;
+
+}
+.img-row-4{
+
+  width:100%;
+
+}
+
 
 .footer-head{
   padding:0% !important;
@@ -587,6 +692,8 @@ margin-top: 8%;
 }
 
 @media all and (min-width: 421px) and (max-width: 799px){
+
+
   [class*="section-1-text"] {
     display: inline-block;
   }
@@ -597,6 +704,7 @@ margin-top: 8%;
     background-size: 410px 400px !important;
 
   }
+
 
 
   .leadership-card-2{
@@ -693,9 +801,35 @@ margin-top: 8%;
     padding-top:10%;
     padding-bottom: 5%;
   }
-.first-blog-row{
-  margin:0 !important;
-}
+
+
+  .blog-new{
+    margin:0 !important;
+  }
+
+
+
+  .img-row-1{
+    width:50%;
+
+
+  }
+  .img-row-2{
+
+    width:50%;
+
+  }
+
+  .img-row-3{
+
+    width:100%;
+
+  }
+  .img-row-4{
+
+    width:100%;
+
+  }
 
 .footer-head{
   padding:0% !important;
@@ -751,6 +885,10 @@ margin-top: 8%;
   padding-right: 13%;
 }
 
+.check-col-2{
+  width:100%;
+}
+
 
 
 }
@@ -760,11 +898,6 @@ margin-top: 8%;
 @media all and (min-width: 800px) and (max-width: 998px){
 
 
-
-.first-blog-row{
-  margin-left:0 !important;
-
-}
 
 .leader-card1-div{
 
@@ -806,35 +939,100 @@ padding-bottom: 70% !important;
 .title-img{
   margin:0 !important;
   padding-left:3%;
-  width:98.8%;
-  height:550px;
+  padding-top: 5%;
+  width:95%;
+
 }
 
+.why-us{
+  padding-left: 2%;
+  padding-top:10%;
+}
 
+.Under-Why-Us{
+
+
+  padding-left:2% ;
+  padding-top: 6%;
+}
 
 .message-div-why{
+
+  padding-left: 5%;
+  height: 50%;
+  font-size: 1rem;
+  padding-top: 6%;
+  background-color:ghostwhite;
   text-align: center;
-  padding-left: 13%;
-  padding-right: 13%;
+
+}
+
+.why-us-last{
+
+
+  padding-left: 2%;
+  padding-top: 3.5%;
 }
 
 .check-col{
 
-  width:50%;
+  width:85%;
 
 }
 
 .slide-container{
   margin-top:10% !important;
 }
+
+.blog-new{
+  margin:0 !important;
 }
 
-@media all and (min-width: 999px) and (max-width: 1300px){
+
+
+.img-row-1{
+  width:50%;
+
+
+}
+.img-row-2{
+
+  width:50%;
+
+}
+
+.img-row-3{
+
+  width:100%;
+
+}
+.img-row-4{
+
+  width:100%;
+
+}
+}
+
+@media all and (min-width: 999px) and (max-width: 1350px){
 
   .check-col{
 
-    width:50%;
+    width:30%;
 
+  }
+  .check-col-3{
+    width:70% !important;
+  }
+  .title-img{
+    margin:0 !important;
+    padding-left:3%;
+    width:100%;
+
+  }
+
+  .agency-head{
+    margin: 0 !important;
+    padding-bottom: 8%;
   }
 
   .leader-card1-div{
@@ -851,6 +1049,24 @@ padding-bottom: 70% !important;
 
 
 }
+
+@media all and (min-width: 1351px) and (max-width: 1541px){
+
+
+  .title-img{
+    margin:0 !important;
+    margin-top: 5% !important;
+    margin-left: 5% !important;
+    width:105% !important;
+
+  }
+  .check-col{
+    width:50%;
+  }
+}
+
+
+
 
 
 
