@@ -4,7 +4,7 @@
 *{margin: 0px; padding:0px}
 
 
-#title{
+.title{
   position:relative;
   height:750px;
 
@@ -58,7 +58,7 @@ color: white
 }
 
 
-#testimonials{
+.testimonials{
 
   padding: 7% 15%;
 	text-align : center;
@@ -178,7 +178,7 @@ color: white
 
 }
 
-#leadership{
+.leadership{
   margin-top: 10%;
 }
 
@@ -190,7 +190,7 @@ color: white
 .leadership-boxes{
 
   margin-top:5%;
-  margin-right:3%;
+
   margin-right:8%;
 
 
@@ -200,14 +200,11 @@ color: white
 
 
 .leadership-card-1{
-  height:400px;
-  width:120%;
+
+  width:100%;
 
   background-image: url(xperson_1.jpg.pagespeed.ic.YTN3ICQ2Kp.webp);
-  background-size:380px 400px;
-
-
-
+  object-fit: cover;
 }
 
 .leader-card-para{
@@ -227,7 +224,7 @@ color: white
   margin-top:75%;
   background-color: white;
   width:99.5%;
-  height:105px;
+
 }
 
 .leader-card3-div{
@@ -235,22 +232,20 @@ color: white
   margin-top:75%;
   background-color: white;
   width:99.5%;
-  height:105px;
+
 }
 .leadership-card-2{
-  height:400px;
-  width:120%;
+
+  width:100%;
   background-image: url(xperson_2.jpg.pagespeed.ic.1296G1Z9Tt.webp);
-  background-size:380px 400px;
+  object-fit: cover;
 
 }
 
 .leadership-card-3{
-  height:400px;
-  width:120%;
+  width:100%;
   background-image: url(xperson_3.jpg.pagespeed.ic.lJKZ84375k.webp);
-  background-size:380px 400px;
-
+  object-fit: cover;
 }
 .card-sm{
 
@@ -323,7 +318,7 @@ color: white
 	width: 62%;
 }
 
-#blog{
+.blog{
   width:100%;
 }
 
@@ -338,6 +333,8 @@ color: white
 .footer-row{
   width:100%;
 }
+
+
 
 .img-row-1{
   width:25%;
@@ -432,7 +429,7 @@ color: white
   visibility: visible !important;
 }
 
-#Services{
+.Services{
   background-color:ghostwhite;
   width:99%;
 }
@@ -469,7 +466,7 @@ color: white
   padding-top: 10%;
   padding-left:22%;
 }
-#footer{
+.footer{
 
   background-color:ghostwhite;
 margin-top: 8%;
@@ -493,12 +490,12 @@ width:99%;
 
 }
 
-#second-section{
+.second-section{
   width:90%;
 }
 
-#numbers-lg{
-  width:98%;
+.numbers-lg{
+  width:100%;
 }
 
 
@@ -545,7 +542,7 @@ width:99%;
     width:42%;
   }
 
-  #leadership{
+  .leadership{
 
     align-items: left;
   }
@@ -579,7 +576,7 @@ width:99%;
 
   }
 
-  #second-section{
+  .second-section{
 
     align-items: left;
   }
@@ -723,7 +720,7 @@ width:99%;
 
 
 
- #numbers-lg{
+ .numbers-lg{
    margin-top: 20%;
  }
 
@@ -746,7 +743,7 @@ width:99%;
     width:42%;
   }
 
-  #leadership{
+  .leadership{
 
     align-items: left;
   }
@@ -778,7 +775,7 @@ width:99%;
 
   }
 
-  #second-section{
+  .second-section{
 
     align-items: left;
   }
@@ -1060,10 +1057,19 @@ padding-bottom: 70% !important;
     width:105% !important;
 
   }
+
+  .agency-head{
+    margin:0;
+    padding:0;
+  }
   .check-col{
     width:50%;
   }
 }
+
+
+
+
 
 
 
